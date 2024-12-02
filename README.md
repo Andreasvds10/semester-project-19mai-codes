@@ -1,2 +1,2 @@
-# semester-project-19mai-codes
+# semester-project
 code(semester project)
