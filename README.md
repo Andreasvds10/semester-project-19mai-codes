@@ -1,52 +1,38 @@
-# Semester Project: Community Science Museum
+# Your project title
 
-Dette prosjektet er en del av et semesteroppdrag for å lage en responsiv og tilgjengelig nettside for en interaktiv vitenskapsmuseum. Nettsiden er bygget ved hjelp av kun HTML og CSS, i tråd med oppgavens krav.
+![image](https://raw.githubusercontent.com/Andreasvds10/semester-project-19mai-codes/refs/heads/main/overviewmuseum.PNG)
 
-Prosjektbeskrivelse
-Community Science Museum er et nytt museum som henvender seg til barn (7–15 år) og familier. Nettsiden er designet for å vekke interesse og gjøre det enkelt for besøkende å finne informasjon om museet, kommende utstillinger og hvordan man kan bidra.
+Home page for a community science Museum
 
-# Nettsidens funksjoner og sider
-1. Hjemmeside
-Introduksjon til museet med nøkkelinformasjon og engasjerende bilder.
-2. Kontakt-side
-Viser adresse, telefonnummer, åpningstider og et kontaktskjema.
-3. Bidrags-side
-Informasjon om hvordan man kan bidra til museet (donasjoner eller frivillig arbeid).
-4. Utstillings-side
-Oversikt over kommende arrangementer og utstillinger.
-5. Policy-side
-   
-Inneholder museets personvernerklæring og vilkår.
-Teknologier brukt
-HTML: For å strukturere innholdet på en semantisk og tilgjengelig måte.
-CSS: For å style nettsiden og sikre et responsivt design som fungerer på ulike enheter.
+## Description
 
-Prosjektfiler
-GitHub Repository: Semester Project Repository
-Live Demo: Se nettsiden her
-Hvordan kjøre prosjektet lokalt
-Klone repoet:
-bash
+The website is built using only HTML and CSS, in accordance with the requirements of the assignment.
 
-Kopier kode
+
+## Getting Started
+
+### Installing
+
+1. Clone the repo:
+
+```bash
 git clone https://github.com/Andreasvds10/semester-project-19mai-codes.git
+```
 
-Naviger til mappen:
-bash
+2. Navigate to the project directory:
 
-Kopier kode
+```bash
 cd semester-project-19mai-codes
+```
 
-Åpne index.html i nettleseren.
+### Running
 
-Testing og kompatibilitet
-Responsivitet: Nettsiden er testet på mobil, nettbrett og desktop.
+To run the app, run the following commands:
 
-Tilgjengelighet: Oppfyller grunnleggende tilgjengelighetskrav for brukere med funksjonsnedsettelser.
-Lisens
-Alle bilder og tekster er enten levert av klienten eller hentet fra lisensierte, gratis kilder. Nettsiden er laget utelukkende for opplæringsformål.
+Locate the Home.html file inside the html folder.
 
-Kontakt
-For spørsmål eller tilbakemeldinger:
+Open the Home.html file with a web browser. (Right click -> open with Google Chrome / Firefox / Safari / Edge, etc)
 
-Eier av repo: Andreasvds10
+## Contact
+
+[My LinkedIn page](https://www.linkedin.com/in/andreas-van-der-spa-618216341/)
