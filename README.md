@@ -1,15 +1,10 @@
-# Your project title
 
 ![image](https://raw.githubusercontent.com/Andreasvds10/semester-project-19mai-codes/refs/heads/main/overviewmuseum.PNG)
 
 Home page for a community science Museum
 
-## Description
-
 The website is built using only HTML and CSS, in accordance with the requirements of the assignment.
 
-
-## Getting Started
 
 ### Installing
 
