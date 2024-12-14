@@ -1,9 +1,15 @@
 
+# Home Page for a Community Science Museum
+
+
 ![image](https://raw.githubusercontent.com/Andreasvds10/semester-project-19mai-codes/refs/heads/main/overviewmuseum.PNG)
 
-Home page for a community science Museum
 
-The website is built using only HTML and CSS, in accordance with the requirements of the assignment.
+## Features
+
+- Informative home page for visitors.
+- Details about upcoming exhibitions.
+- Accessibility-focused design.
 
 
 ### Installing
