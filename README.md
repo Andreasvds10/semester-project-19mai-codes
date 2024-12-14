@@ -30,9 +30,9 @@ cd semester-project-19mai-codes
 
 To run the app, run the following commands:
 
-Locate the Home.html file inside the html folder.
+Locate the index.html.
 
-Open the Home.html file with a web browser. (Right click -> open with Google Chrome / Firefox / Safari / Edge, etc)
+Open the index.html file with a web browser. (Right click -> open with Google Chrome / Firefox / Safari / Edge, etc)
 
 ## Contact
 
